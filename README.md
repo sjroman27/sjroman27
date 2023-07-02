@@ -1,4 +1,4 @@
-Hi! I'm sjrpoyo, also known as Sarah! 
+-- Hi! I'm sjrpoyo, also known as Sarah! 
 I go by she/her and I'm from NYC.
 I'm interested in learning about cybersecurity.
 I have experience in Front-End Web Development, Game Development, Social Media Marketing and Graphic Design. 
